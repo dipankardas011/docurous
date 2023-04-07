@@ -36,7 +36,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          cache-dependency-path: ./website
           github_token: ${{ secrets.GITHUB_TOKEN }}
           # Build output to publish to the `gh-pages` branch:
-          publish_dir: ./build
+          publish_dir: ./website/build
+# Warning: Unexpected input(s) 'cache-dependency-path', valid inputs are ['deploy_key', 'github_token', 'personal_token', 'publish_branch', 'publish_dir', 'destination_dir', 'external_repository', 'allow_empty_commit', 'keep_files', 'force_orphan', 'user_name', 'user_email', 'commit_message', 'full_commit_message', 'tag_name', 'tag_message', 'enable_jekyll', 'disable_nojekyll', 'cname', 'exclude_assets']
