@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkksctl=self.webpackChunkksctl||[]).push([[4323],{3553:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/docurous/blog/tags/hola","allTagsPath":"/docurous/blog/tags","count":1}')}}]);

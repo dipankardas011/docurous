@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkksctl=self.webpackChunkksctl||[]).push([[3190],{1602:s=>{s.exports=JSON.parse('{"permalink":"/docurous/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
